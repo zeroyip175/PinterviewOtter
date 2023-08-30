@@ -1,5 +1,5 @@
 "# PinterviewOtter_guideline" 
-
+Category: JAVA, Android Studio, Azure AI API 
 PinterviewOtter is an interview mobile app
 
 Word documentation
