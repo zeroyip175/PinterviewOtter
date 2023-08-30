@@ -1,5 +1,7 @@
 "# PinterviewOtter_guideline" 
+
 Category: JAVA, Android Studio, Azure AI Video Indexer (API)
+
 PinterviewOtter is an interview mobile app
 
 Word documentation
