@@ -9,3 +9,15 @@ Word documentation
 
 
 [IPPs.Mobile.Application.Screen.short.and.guide (2).docx](https://github.com/zeroyip175/PinterviewOtter_done/files/11998893/IPPs.Mobile.Application.Screen.short.and.guide.2.docx)
+
+<!DOCTYPE html>
+<html>
+<meta name="google-site-verification" content="bVxGL-ABUv3oBt5SUwc49Lf6deCQP3o2MHnDJvgrNsA" />
+<head>
+  <title>My Simple Website</title>
+</head>
+<body>
+  <h1>Welcome to My Simple Website!</h1>
+  <p>This is a paragraph of text.</p>
+</body>
+</html>
