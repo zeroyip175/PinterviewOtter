@@ -14,7 +14,7 @@ Word documentation
 <html>
 <meta name="google-site-verification" content="bVxGL-ABUv3oBt5SUwc49Lf6deCQP3o2MHnDJvgrNsA" />
 <head>
-  <title>My Simple Website</title>
+  <title>Pinterview Otter Project</title>
 </head>
 <body>
   <h1>Welcome to My Simple Website!</h1>
