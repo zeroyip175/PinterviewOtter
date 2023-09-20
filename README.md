@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, PHP**
 
-- 🔭 I’m previous working on **Avatech**
+- 🔭 I worked on **Avatech**
 
 - 👨‍💻 All of my projects are available at [https://zeroyip175.github.io/profile/](https://zeroyip175.github.io/profile/)
 
