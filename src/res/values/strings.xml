@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PinviewOtter</string>
+    <string name="logo_name">PinviewOtter</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="pinterview_dec">Pinterview help you to grow your interview skills ☺</string>
+    <string name="cite_sentence">Pratice Makes Perfect !</string>
+    <string name="get_started_btn">Get Started</string>
+    <string name="need_permission">Need permission to access files</string>
+    <string name="camera_permission">Need permission to access the camera</string>
+    <string name="error">Nothing detected</string>
+    <string name="menu_item_settings" translatable="false">Settings</string>
+    <string name="questions">Questions</string>
+    <string name="guide_line">Upload your interview video/audio</string>
+    <string name="start_recording">start recording here !</string>
+    <string name="job_title">Job_title</string>
+    <string name="company_name">Company_name</string>
+    <string name="job_location">Job_location</string>
+    <string name="job_salary">Job_salary</string>
+    <string name="job_description">Job_description</string>
+    <string name="more_detail">More Detail</string>
+    <string name="apply_tag">Practice Now</string>
+    <string name="question_1">1. Can introduce yourself?</string>
+    <string name="save_jd_btn">Save JD</string>
+    <string name="save_video_caption">Save Video Caption</string>
+    <string name="save_audio_caption">Save Audio Caption</string>
+    <string name="reference">Created by Yip Sze Wo. Copyright © 2022 College of Professional and Continuing Education. All Rights Reserved. College of Professional and Continuing Education Limited is an affiliate of The Hong Kong Polytechnice University. Project cooperate with Dr. Joseph So. and Dr. Adam Wong. </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

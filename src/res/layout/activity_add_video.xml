@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddVideoActivity">
+
+    <TextView
+        android:id="@+id/guideline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoText="false"
+        android:background="@color/white"
+        android:contextClickable="false"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/guide_line"
+        android:textColor="@color/colorBlack"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:ignore="Deprecated" />
+
+    <View
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_below="@+id/guideline"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/ic_baseline_cloud_upload_24" />
+
+    <Button
+        android:id="@+id/uploadVideoBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/videoView"
+        android:layout_marginTop="5dp"
+        android:background="@color/colorAccent"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="Upload"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

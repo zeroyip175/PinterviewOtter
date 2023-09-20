@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VidoeAudioCaptionActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <Button
+                android:id="@+id/video_insight_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:backgroundTint="@color/teal_700"
+                android:text="VideoInsight" />
+            <TextView
+                android:id="@+id/brand_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/tinos_italic"
+                android:text="TextView"
+                android:textColor="@color/black"
+                android:textSize="12dp" />
+
+            <Button
+                android:id="@+id/audio_insight_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AudioInsight"
+                android:backgroundTint="@color/teal_700"/>
+
+            <TextView
+                android:id="@+id/audio_insight_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/tinos_italic"
+                android:textColor="@color/black"
+                android:text="TextView"
+                android:textSize="12dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Interview questions Keyword"
+                android:backgroundTint="@color/teal_700"/>
+            <TextView
+                android:id="@+id/jobDescription_keywords"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/tinos_italic"
+                android:text="TextView"
+                android:textColor="@color/black"
+                android:textSize="12dp" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/job_description"
+                android:backgroundTint="@color/teal_700"/>
+
+            <TextView
+                android:id="@+id/description_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/tinos_italic"
+                android:text="TextView"
+                android:textColor="@color/black"
+                android:textSize="12dp" />
+
+            <Button
+                android:id="@+id/jt_save_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/save_jd_btn"
+                android:textColor="@color/black"
+                android:backgroundTint="@color/green_FF1AF876"
+                />
+
+            <Button
+                android:id="@+id/save_interview_caption"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/save_video_caption"
+                android:backgroundTint="@color/green_FF1AF876"
+                android:textColor="@color/black"/>
+
+            <Button
+                android:id="@+id/save_audio_caption_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="save audio caption"
+                android:backgroundTint="@color/green_FF1AF876"
+                android:textColor="@color/black"/>
+
+            <Button
+                android:id="@+id/compare_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Matching "
+                android:textColor="@color/black"
+                android:backgroundTint="@color/yellow_F6BC48"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
